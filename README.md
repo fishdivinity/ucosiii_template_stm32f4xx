@@ -37,8 +37,8 @@ RTE_Components.h is stm32f4xx
                 "${workspaceFolder}/UCOSIII/uC-CPU/ARM-Cortex-M4/RealView",
                 "${workspaceFolder}/UCOSIII/uC-LIB/Ports/ARM-Cortex-M4/RealView",
                 "${workspaceFolder}/UCOSIII/uCOS-III/Ports/ARM-Cortex-M4/Generic/RealView",
-                "C:/Keil_v5/ARM/ARMCC/include",
-                "C:/Keil_v5/ARM/ARMCC/include/rw",
+                "c:/Keil_v5/ARM/ARMCC/include",
+                "c:/Keil_v5/ARM/ARMCC/include/rw",
                 "${workspaceFolder}/FWLIB/STM32F4xx_StdPeriph_Driver/src"
             ],
             "defines": [
